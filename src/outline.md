@@ -1,0 +1,1 @@
+I'm a budding Software Engineering, mainly focusing on web technologies and back-end web development with a passion for Linked Data.
