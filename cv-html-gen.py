@@ -19,6 +19,9 @@ def cv():
 	employmentHistory = open(os.path.join('src', 'employment-history.md'))
 	employmentHistory = Markup(markdown.markdown(employmentHistory.read()))
 
+	volunteering = open(os.path.join('src', 'volunteering.md'))
+	volunteering = Markup(markdown.markdown(volunteering.read()))
+
 	return render_template('index.html', **locals())
 
 
