@@ -9,6 +9,7 @@ python cv-html-gen.py build
 
 # go to the build directory and create a *new* Git repo
 cd build
+echo "cv.harryreeder.co.uk" > CNAME
 git init
 
 # inside this git repo we'll pretend to be a new user
