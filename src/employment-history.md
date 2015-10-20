@@ -5,10 +5,10 @@ On my return to university, I have begun in a part time demonstrator position, a
 
 **IBM UK Ltd** _Software Engineer_ <span class="subheading">June 2014 - September 2015</span>
 
-During my latest stretch of time with IBM, I have been assigned to the [CRYSTAL](http://www.crystal-artemis.eu/) project. I have been developing demonstrations on how to make use of the Linked Data APIs available within some of the IBM Rational Solution for Systems & Software Engineering suite of tools. This has also included extending existing domains and creating new domains to prototype new forms of data within the lifecycle.
+During my latest stretch of time with IBM, I was assigned to the [CRYSTAL](http://www.crystal-artemis.eu/) project. I was developing demonstrations on how to make use of the Linked Data APIs available within some of the IBM Rational Solution for Systems & Software Engineering suite of tools. This has also included extending existing domains and creating new domains to prototype new forms of data within the lifecycle, alongside delivering prototype demonstration applications built using Java, JAX-RS, OSLC4J and Apache Wink.
 
 	
-As part of my position, I was also able to speak at the unconference at both EclipseCon France and EclipseCon Europe 2014
+As part of my position, I was also able to speak at the unconference at both EclipseCon France and EclipseCon Europe 2014, delivering technical workshops on utilising [OSLC](http://open-services.net) technologies, both for implementing as a client and as a provider.
 
 
 **IBM UK Ltd** _Software Engineer_ <span class="subheading">June 2013 - August 2013</span>
